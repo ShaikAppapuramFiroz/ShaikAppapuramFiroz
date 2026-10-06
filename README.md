@@ -8,8 +8,6 @@
 
 <div align="center">
 
-#  SHAIK APPAPURAM FIROZ
-
 <img
 src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:6A00FF&height=250&section=header&text=SHAIK%20APPAPURAM%20FIROZ&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&descSize=18"
 width="100%"

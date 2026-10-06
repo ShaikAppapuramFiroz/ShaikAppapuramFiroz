@@ -19,17 +19,20 @@ width="100%"
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="90%"/><br>
 
-<p>
+<p align="center">
   <a href="https://github.com/ShaikAppapuramFiroz">
-    <img src="https://img.shields.io/badge/GitHub-ShaikAppapuramFiroz-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-ShaikAppapuramFiroz-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/shaik-appapuram-firoz">
-    <img src="(https://www.linkedin.com/in/shaik-appapuram-firoz-816621298/)?style=for-the-badge&logo=linkedin" />
+
+  <a href="https://www.linkedin.com/in/shaik-appapuram-firoz-816621298/">
+    <img src="https://img.shields.io/badge/LinkedIn-Shaik%20Appapuram%20Firoz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="mailto:appapuramfirozforr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 <img src="https://komarev.com/ghpvc/?username=ShaikAppapuramFiroz&label=PROFILE+VIEWS&color=38BDF8&style=for-the-badge" />
 

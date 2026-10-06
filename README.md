@@ -578,20 +578,6 @@ alt="Gold Contribution Snake"
 
 ---
 
-## ⚡ Neon Snake
-
-<p align="center">
-
-<img
-src="https://raw.githubusercontent.com/ShaikAppapuramFiroz/ShaikAppapuramFiroz/output/github-snake-neon.svg"
-width="100%"
-alt="Neon Contribution Snake"
-/>
-
-</p>
-
----
-
 <!-- ========================================================= -->
 
 <!--                         GOALS                             -->

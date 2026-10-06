@@ -574,26 +574,6 @@ alt="Red Contribution Snake"
 <tr>
 <td align="center">
 
-### 💗 Pink
-
-<img
-src="https://raw.githubusercontent.com/ShaikAppapuramFiroz/ShaikAppapuramFiroz/output/github-snake-pink.svg"
-width="100%"
-alt="Pink Contribution Snake"
-/>
-
-</td>
-
-<td align="center">
-
-### 🟡 Gold
-
-<img
-src="https://raw.githubusercontent.com/ShaikAppapuramFiroz/ShaikAppapuramFiroz/output/github-snake-gold.svg"
-width="100%"
-alt="Gold Contribution Snake"
-/>
-
 </td>
 </tr>
 

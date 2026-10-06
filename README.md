@@ -51,8 +51,6 @@
   </a>
 </p>
 
-  <!-- ==================== PROFILE VIEWS ==================== -->
-
   <img
     src="https://komarev.com/ghpvc/?username=ShaikAppapuramFiroz&label=PROFILE+VIEWS&color=38BDF8&style=for-the-badge"
     alt="Profile Views"

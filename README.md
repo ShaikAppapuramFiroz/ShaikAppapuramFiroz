@@ -330,8 +330,10 @@ Git / GitHub     ████████████████░░░░  8
 * 🥇 NPTEL Elite — Joy of Computing in Python
 * 🐍 Python Basics — Infosys Springboard
 * 📊 Basics of Data Science & Python — edX
-* ☕ Full Stack Java Web Development — Alice Soft
+* ☕ Full Stack Java Web Development — Alice Soft and Data Valley
+* ☕ AWS Cloud & Devops — Data Valley
 * 🔐 Cybersecurity Excellence — Supraja
+* 🥇 Android App Development — KPCODE4U 
 
 ---
 

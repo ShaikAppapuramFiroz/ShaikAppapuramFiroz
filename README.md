@@ -14,6 +14,11 @@ width="100%"
 />
 
 <br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer;AI%2FML+Enthusiast;Spring+Boot+%7C+React+%7C+Python;Building+Real-World+Software+%F0%9F%9A%80;Always+Learning+%7C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="90%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="90%"/>
 

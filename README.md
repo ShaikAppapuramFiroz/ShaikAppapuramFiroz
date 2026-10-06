@@ -412,24 +412,6 @@ As a student chapter member, I have been involved in:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ShaikAppapuramFiroz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
-
-</p>
-
----
-
-<!-- ========================================================= -->
-
-<!--                   CONTRIBUTION GRAPH                      -->
-
-<!-- ========================================================= -->
-
-## 📊 Contribution Activity
-
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShaikAppapuramFiroz&theme=tokyo-night&hide_border=true&area=true" width="100%" />
@@ -479,69 +461,12 @@ As a student chapter member, I have been involved in:
 
 ---
 
-## 🌊 Ocean Snake
-
-<p align="center">
-
-<img
-src="https://raw.githubusercontent.com/ShaikAppapuramFiroz/ShaikAppapuramFiroz/output/github-ocean.gif"
-width="100%"
-alt="Ocean Contribution Snake"
-/>
-
-</p>
-
----
-
-## 💜 Purple Snake
-
-<p align="center">
-
-<img
-src="https://raw.githubusercontent.com/ShaikAppapuramFiroz/ShaikAppapuramFiroz/output/github-purple.gif"
-width="100%"
-alt="Purple Contribution Snake"
-/>
-
-</p>
-
----
-
-## 💚 Green Snake
-
-<p align="center">
-
-<img
-src="https://raw.githubusercontent.com/ShaikAppapuramFiroz/ShaikAppapuramFiroz/output/github-green.gif"
-width="100%"
-alt="Green Contribution Snake"
-/>
-
-</p>
-
----
-
-## 🔥 Fire Snake
-
-<p align="center">
-
-<img
-src="https://raw.githubusercontent.com/ShaikAppapuramFiroz/ShaikAppapuramFiroz/output/github-fire.gif"
-width="100%"
-alt="Fire Contribution Snake"
-/>
-
-</p>
-
----
-
 <!-- ========================================================= -->
 
 <!--                   SNAKE COLOR COLLECTION                   -->
 
 <!-- ========================================================= -->
 
-## 🎨 Contribution Snake Collection
 
 <table align="center">
 

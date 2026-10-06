@@ -20,8 +20,6 @@ width="100%"
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="90%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="90%"/>
-
 <p>
   <a href="https://github.com/ShaikAppapuramFiroz">
     <img src="https://img.shields.io/badge/GitHub-ShaikAppapuramFiroz-181717?style=for-the-badge&logo=github" />

@@ -647,8 +647,8 @@ alt="Gold Contribution Snake"
 <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/shaik-appapuram-firoz">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/shaik-appapuram-firoz-816621298/">
+<img src="https://img.shields.io/badge/LinkedIn-Shaik%20Appapuram%20Firoz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/ShaikAppapuramFiroz">

@@ -18,7 +18,7 @@ width="100%"
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="90%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="90%"/><br>
 
 <p>
   <a href="https://github.com/ShaikAppapuramFiroz">

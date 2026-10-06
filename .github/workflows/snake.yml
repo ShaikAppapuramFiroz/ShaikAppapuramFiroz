@@ -1,0 +1,188 @@
+name: 🐍 Generate GitHub Contribution Snakes
+
+on:
+  # Run automatically every day
+  schedule:
+    - cron: "0 0 * * *"
+
+  # Allow manual execution
+  workflow_dispatch:
+
+  # Regenerate whenever the main profile is updated
+  push:
+    branches:
+      - main
+      - master
+
+# Required to create/update the output branch
+permissions:
+  contents: write
+
+jobs:
+  generate:
+
+    name: 🐍 Generate Contribution Animations
+
+    runs-on: ubuntu-latest
+
+    timeout-minutes: 15
+
+    steps:
+
+      # =====================================================
+      # GENERATE ALL SNAKE ANIMATIONS
+      # =====================================================
+
+      - name: 🐍 Generate contribution snake animations
+        uses: Platane/snk@v3
+
+        with:
+
+          # =================================================
+          # YOUR GITHUB USERNAME
+          # =================================================
+
+          github_user_name: ShaikAppapuramFiroz
+
+          # GitHub automatically provides this token
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+          # =================================================
+          # ALL OUTPUTS
+          # =================================================
+
+          outputs: |
+
+            # -------------------------------------------------
+            # DEFAULT GITHUB SNAKE
+            # -------------------------------------------------
+
+            dist/github-snake.svg
+
+            # -------------------------------------------------
+            # DARK MODE
+            # -------------------------------------------------
+
+            dist/github-snake-dark.svg?palette=github-dark
+
+            # -------------------------------------------------
+            # LIGHT MODE
+            # -------------------------------------------------
+
+            dist/github-snake-light.svg?palette=github-light
+
+
+            # =================================================
+            # BLUE
+            # =================================================
+
+            dist/github-snake-blue.svg?color_snake=#38BDF8&color_dots=#082F49,#075985,#0369A1,#0284C7,#38BDF8
+
+
+            # =================================================
+            # CYAN
+            # =================================================
+
+            dist/github-snake-cyan.svg?color_snake=#06B6D4&color_dots=#083344,#155E75,#0E7490,#0891B2,#06B6D4
+
+
+            # =================================================
+            # PURPLE
+            # =================================================
+
+            dist/github-snake-purple.svg?color_snake=#A855F7&color_dots=#1E1033,#4C1D95,#7E22CE,#9333EA,#A855F7
+
+
+            # =================================================
+            # GREEN
+            # =================================================
+
+            dist/github-snake-green.svg?color_snake=#22C55E&color_dots=#052E16,#166534,#15803D,#16A34A,#22C55E
+
+
+            # =================================================
+            # ORANGE
+            # =================================================
+
+            dist/github-snake-orange.svg?color_snake=#F97316&color_dots=#431407,#9A3412,#C2410C,#EA580C,#F97316
+
+
+            # =================================================
+            # RED
+            # =================================================
+
+            dist/github-snake-red.svg?color_snake=#EF4444&color_dots=#450A0A,#991B1B,#B91C1C,#DC2626,#EF4444
+
+
+            # =================================================
+            # PINK
+            # =================================================
+
+            dist/github-snake-pink.svg?color_snake=#EC4899&color_dots=#500724,#9D174D,#BE185D,#DB2777,#EC4899
+
+
+            # =================================================
+            # GOLD
+            # =================================================
+
+            dist/github-snake-gold.svg?color_snake=#FACC15&color_dots=#422006,#854D0E,#A16207,#CA8A04,#FACC15
+
+
+            # =================================================
+            # NEON
+            # =================================================
+
+            dist/github-snake-neon.svg?color_snake=#00FFFF&color_dots=#071A1F,#0E7490,#06B6D4,#22D3EE,#67E8F9
+
+
+            # =================================================
+            # FIRE
+            # =================================================
+
+            dist/github-snake-fire.svg?color_snake=#FF4500&color_dots=#450A03,#7C2D12,#C2410C,#EA580C,#FF4500
+
+
+            # =================================================
+            # OCEAN GIF
+            # =================================================
+
+            dist/github-ocean.gif?color_snake=#06B6D4&color_dots=#082F49,#075985,#0369A1,#0284C7,#38BDF8&color_background=#020617
+
+
+            # =================================================
+            # PURPLE GIF
+            # =================================================
+
+            dist/github-purple.gif?color_snake=#A855F7&color_dots=#1E1033,#4C1D95,#7E22CE,#9333EA,#A855F7&color_background=#090014
+
+
+            # =================================================
+            # GREEN GIF
+            # =================================================
+
+            dist/github-green.gif?color_snake=#22C55E&color_dots=#052E16,#166534,#15803D,#16A34A,#22C55E&color_background=#020617
+
+
+            # =================================================
+            # FIRE GIF
+            # =================================================
+
+            dist/github-fire.gif?color_snake=#FF4500&color_dots=#450A03,#7C2D12,#C2410C,#EA580C,#FF4500&color_background=#170500
+
+
+      # =====================================================
+      # PUBLISH EVERYTHING TO OUTPUT BRANCH
+      # =====================================================
+
+      - name: 🚀 Publish animations to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+
+        with:
+
+          target_branch: output
+
+          build_dir: dist
+
+        env:
+
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

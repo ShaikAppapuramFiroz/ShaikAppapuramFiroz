@@ -8,9 +8,12 @@
 
 <div align="center">
 
-# ✨ SHAIK APPAPURAM FIROZ
+#  SHAIK APPAPURAM FIROZ
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer;AI%2FML+Enthusiast;Spring+Boot+%7C+React+%7C+Python;Building+Real-World+Software+%F0%9F%9A%80;Always+Learning+%7C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:6A00FF&height=250&section=header&text=SHAIK%20APPAPURAM%20FIROZ&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&descSize=18"
+width="100%"
+/>
 
 <br>
 

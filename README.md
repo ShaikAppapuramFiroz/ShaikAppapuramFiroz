@@ -24,7 +24,7 @@ width="100%"
     <img src="https://img.shields.io/badge/GitHub-ShaikAppapuramFiroz-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/shaik-appapuram-firoz">
-    <img src="[https://img.shields.io/badge/LinkedIn-Firoz-0A66C2](https://www.linkedin.com/in/shaik-appapuram-firoz-816621298/)?style=for-the-badge&logo=linkedin" />
+    <img src="(https://www.linkedin.com/in/shaik-appapuram-firoz-816621298/)?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:appapuramfirozforr@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail" />

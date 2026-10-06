@@ -37,30 +37,19 @@
 
   <!-- ==================== SOCIAL LINKS ==================== -->
 
-  <p align="center">
+<p align="center">
+  <a href="https://github.com/ShaikAppapuramFiroz">
+    <img src="https://img.shields.io/badge/GitHub-ShaikAppapuramFiroz-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-    <a href="https://github.com/ShaikAppapuramFiroz">
-      <img
-        src="https://img.shields.io/badge/GitHub-ShaikAppapuramFiroz-181717?style=for-the-badge&logo=github&logoColor=white"
-        alt="GitHub"
-      />
-    </a>
+  <a href="https://www.linkedin.com/in/shaik-appapuram-firoz-816621298/">
+    <img src="https://img.shields.io/badge/LinkedIn-Shaik%20Appapuram%20Firoz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-    <a href="https://www.linkedin.com/in/shaik-appapuram-firoz-816621298/">
-      <img
-        src="https://img.shields.io/badge/LinkedIn-Shaik%20Appapuram%20Firoz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        alt="LinkedIn"
-      />
-    </a>
-
-    <a href="mailto:appapuramfirozforr@gmail.com">
-      <img
-        src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-        alt="Email"
-      />
-    </a>
-
-  </p>
+  <a href="mailto:appapuramfirozforr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
   <!-- ==================== PROFILE VIEWS ==================== -->
 
